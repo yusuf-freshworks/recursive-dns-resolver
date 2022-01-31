@@ -1,1 +1,1 @@
-# Recursive-DNS-Resolver
+# Recursive-DNS-Resolver cmd application
